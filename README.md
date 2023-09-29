@@ -24,4 +24,5 @@ Utilizing 3D graphics libraries would allow the creation of a controllable virtu
 Python boasts a rich ecosystem of graphics and game libraries. Pairing them with motion tracking tools can effectively recreate the "bullet time" illusion.
 
 ### 4. Images and Sample Implementation:
-![Matrix](
+![Matrix jietu](jietu.png)
+
