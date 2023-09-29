@@ -21,8 +21,8 @@ To mimic the "bullet time" effect, I would use 3D graphics libraries in Python `
 Utilizing 3D graphics libraries would allow the creation of a controllable virtual camera that can move around a central subject. Motion tracking can be used to synchronize the rendered scene with the actual shoot, replicating the bullet time effect. By adjusting the frame rate and interpolating between frames, the desired slow-motion effect can be achieved.
 
 ### 3. Inspiration Source:
-Python boasts a rich ecosystem of graphics and game libraries. Pairing them with motion tracking tools can effectively recreate the "bullet time" illusion.
+Python boasts a rich ecosystem of graphics and game libraries. Using them with motion tracking tools can effectively recreate the "bullet time" illusion.
 
 ### 4. Images and Sample Implementation:
-![Matrix jietu](jietu.png)
+![Matrix bamboo jietu](jietu.png)
 [Matrix python](https://github.com/yangyangzha/yzha0420_9103_TU6/blob/main/mywork.py)
