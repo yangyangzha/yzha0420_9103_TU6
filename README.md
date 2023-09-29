@@ -25,4 +25,4 @@ Python boasts a rich ecosystem of graphics and game libraries. Pairing them with
 
 ### 4. Images and Sample Implementation:
 ![Matrix jietu](jietu.png)
-![Matrix jietu](https://github.com/yangyangzha/yzha0420_9103_TU6/blob/main/mywork.py)
+[Matrix python](https://github.com/yangyangzha/yzha0420_9103_TU6/blob/main/mywork.py)
