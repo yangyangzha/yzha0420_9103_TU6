@@ -2,10 +2,10 @@
 ## Part 1: Imaging Technique Inspiration
 
 ### 1. Imaging Technique Choice:
-I was inspired by the "bullet time" effect in the movie "The Matrix". This effect creates an illusion of time being frozen, with the camera moving around the subject while everything else remains still.
+I was inspired by the "bullet time" effect in the movie "The Matrix". This effect creates an illusion of time being frozen, with the camera moving around the subject while everything else remains still.Also bamboo is another inspiration of mine I would like to change the location from rooftop to bamboo forest.
 
 ### 2. Discussion:
-This technique offers a dramatic emphasis at crucial moments, giving the audience a complex, almost 3D perspective of a pivotal scene. I wish to incorporate it into my project to highlight critical turning points in my narrative. This immersive slow-motion panorama can act as an engaging tool, effectively capturing the audience's attention and emphasizing the significance of specific events.
+This technique offers a dramatic emphasis at crucial moments, giving the audience a complex, almost 3D perspective of a pivotal scene. I wish to incorporate it into my project to highlight critical turning points in my narrative. This immersive slow-motion panorama can act as an engaging tool, effectively capturing the audience's attention and emphasizing the significance of specific events.Bamboo is a rapidly renewable resource and is widely used in construction, furniture, paper, artwork, musical instruments, utensils, textiles, and many other fields.It offers livelihood and economic opportunities for huamns which is an important part.
 
 ### 3. Images:
 ![Matrix](https://pic.cyol.com/img/20220118/img_96e33bac3d4d6c11124351a3bab71d7669_c.jpg)
