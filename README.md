@@ -9,7 +9,7 @@ This technique offers a dramatic emphasis at crucial moments, giving the audienc
 
 ### 3. Images:
 ![Matrix](https://pic.cyol.com/img/20220118/img_96e33bac3d4d6c11124351a3bab71d7669_c.jpg)
-![Matrix](http://5b0988e595225.cdn.sohucs.com/images/20170904/f58167fbda5f43b3859ece2bc43e9fc3.jpeg)
+![zhulin]([http://5b0988e595225.cdn.sohucs.com/images/20170904/f58167fbda5f43b3859ece2bc43e9fc3.jpeg](https://s.yimg.com/ny/api/res/1.2/pfGZ07R7gtjKdePFNvJKmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-03/1d1cca10-ac06-11ec-98fc-66a1b99a2550))
 ---
 
 ## Part 2: Coding Technique Exploration
